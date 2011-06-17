@@ -1,0 +1,21 @@
+---
+layout: default
+title: Venturiate Blog
+---
+
+<div id="home">
+  <h1>Blog Posts, Interviews, Talks, Etc</h1>
+  <ul class="posts">	
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Open Source, Test and Running Projects</h1>
+  <ul class="posts">
+    <li><a href="http://twitter.com/Twilirious">Twilirious:</a> A simple way to push tweets from your mobile phone in one location.</li>
+    <li><a href="http://projectx.venturiate.com">Project X:</a> A video streaming test application made in ruby on rails.</li>
+    <li><a href="http://hd.venturiate.com/splash">Splash Site:</a> The initial splash website for my personal pages</li>
+    <li><a href="/">Advertising and Network Effects:</a> A theoretical framework for communication network analysis.</li>
+  </ul>
+</div>

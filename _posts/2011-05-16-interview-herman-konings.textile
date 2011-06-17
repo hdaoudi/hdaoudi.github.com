@@ -1,0 +1,43 @@
+---
+layout: post
+title: Interview with Herman Konings - Founder of Pocket Marketing/nXt
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 May 2011 - Antwerpen
+
+Although Herman got into entrepreneurship by accident, the environment of big corporations was not suited to him. He co-founded a market research company, but decided to go his separate way when his partner wanted to make the company bigger. He started a trend watching company and relied on strong networking to expand his business. His vision is that if you give something for free without expecting something in return, it will provide you interesting opportunities in the future. The catalyst for his business occurred when he discovered that there is a gap in trend watching in Belgium. He shared this idea with Roularta. This led Herman to conduct research on tend watching and perform on stage before 500 professionals in Brussels. After this event he received invitations from businesses, which eventually lead to more invitations. Today, the company is a trusted partner of a large international trend watching affiliation, in which the participants occasionally do favors for one another.
+
+_Our idea was to launch idea that entails some business aspects that are similar to what PM (Pocket Marketing) is doing. But first, could you tell us a bit what PM is doing?_
+
+PM is a trend watching company. My wife and I found it. My background is that of a psychologist and wife is a clinical psychologist, who also works part-time at a different company. I started initially in entrepreneurship by accident. Actually, it started when I was at university. I was specialized in neuropsychology and students were doing an internship (apprenticeship). I had an internship with a medical doctor as my coach; and they were looking down on us psychologists. I had to work from very early till 1 PM and this provided with me with the time to work on assignments for market research companies. A lot of students received nothing and to work all day, so I was lucky to earn some money. We have many partnerships. Being part of the trend watching network is important. We work with the “Lead Factory” and big trend watcher in London. We have clients in many different sectors. There is some competition in trend watching. Some of them are more specialized. I am more a generalist. I have clients in:
+* Automotive industry: Toyota, Mercedes, Carglass etc.
+* Telecom industry: We have an exclusive contract with Telenet; I also provide work for Mobistar, KPN in NL and Base
+* Media: VRT, VMMa, Weekend Black Edition; We work with EBU for trends in television; Some radio channels; Promax, which is worldwide federation, makes promotion for television channels/networks (e.g. like ESPN)
+* Food: Danone/Kraft/Nestle/Henkel (not-food but adhesive products)/INBev/Leffe (doing a presentation tomorrow)
+* Retail: JBC/Ter Blue/Brantano/Adventure/Colruyt and Delhaize/Autogrill (high way restaurants)
+* Technology: Philips/Electrolux
+* Financial Services: Dexia/ING/etc.
+
+_Could you tell us more about what general assignments/engagements that the companies ask you for?_
+
+First, I have expertise in food, retail, media, hospitality (horeca and restaurants) and tourism (I am on the tourism board of Antwerp). Generally, I do two types of assignments:
+* Thinker. I sit around the table and think of ideas to attract people, understand consumers and how to reach consumers and people. I am also an expert in generation with regards to attitudes, thoughts and behaviors of different generations. 
+* Attendant of general assemblies to do a presentation. This is only once every x years and it is to provoke thoughts and ideas. I do a lot of presentations. Last year I had my record, I did 240 presentations.
+* We produce reports, but we do a lot of outsourcing with research companies, survey companies, desk research companies, etc. I also write columns. I recently had a partnership with Lanoo for a book deal. The book is titled “Latte Machiotto” and it has sold 5000 copies (i.e. a lot). Now what follows is that I will write a new book. My company has some competition. There is Trendwolves, who focuses on younger people, there is Nathalie Vander Linden, there is BDDO, etc. The focus in PM is more on qualitative research. We require intelligence, research or acquire information from Internet and clients. We translate that research for our clients in the form of presentations. We also have a few interns from time to time who do research for us.
+
+_I understand that you are a big shot at the moment and with your current exposure it is possible for you to get assignments as such. But how did you start in the beginning; what made it possible for you to succeed?_
+
+Because I was really interested in market research, I decided enroll in a postgraduate study in marketing at EHSAL in Brussels. I picked up my skills there in marketing. When I graduated, a friend and I decided to launch a company in market research. After a few years we grew apart because we had different visions. He wanted to grow the company, while I wanted a small, lean and mean company. So approximately 20 years ago, I launched the trend watcher company with my wife.
+
+At that time, there was not much to be found on trend watching in Belgium. I was on the telephone with Roularta and asked: why not do something on trends? I then researched about trends. We organized a seminar. There were 500 people with some of them coming from abroad. It is for me maybe hard to imagine, but I am an introvert. I wanted someone else to present in my place, but the guy told me that I did the research so I had to present. There was also a specialist from the U.S. who was invited to speak at the event for 25.000 dollars, which was huge at that time. The guy had also a unique way of giving a presentation: he was walking around while he was presenting and his slides had an image and one sentence. I had to present as the second person and I was really nervous. There was a strong spotlight on the desk, so when I was presenting I saw nothing but darkness. I had made some funny remarks in my notes, and I noticed that people were laughing; and this gave me self-confidence. I thought okay maybe I’ll also try to walk around a bit. I left the spotlight and it was not following me. I stepped out of the spotlight and I saw all the people looking at me and because I was flabbergasted, I stepped back into the spotlight. After the presentation, people knew who I was and they invited me at their companies.
+
+What I think is important to get started is that you need to talk with people. You need to network and even do something for free without expecting something in return. That’s how it works. You need to behave like Bill Gates, Steve Jobs, etc.
+
+Intrinsic values of entrepreneur matter most, beyond the profile, you need to be able to do something for someone without asking for money and do not interfere afterwards. Build your network but do not be over-present as long as you can afford it.
+
+* Watch blogs such as Franck Watching and other media or technology related blogs 
+* Connect with those media in order to become known in social media (especially in foreign countries)
+* Gather information about Insites Consulting
+* Obtain and read Netlash Trend Reports
