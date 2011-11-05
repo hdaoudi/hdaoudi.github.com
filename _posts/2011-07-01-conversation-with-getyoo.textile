@@ -1,0 +1,16 @@
+---
+layout: post
+title: Conversation with Getyoo - NFC-based interactive solutions provider for the event and meetings industry
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 July 2011 - Brussels
+
+??Getyoo develops NFC-based interactive solutions for the event and meetings industry. It’s a fun and clever way to boost the social angle on events and a way to impact real-life marketing, sales, store EPOS vending and digital media sharing. Getyoo is committed to creating the highest-quality, most compelling interactive experiences for events. Getyoo is headquartered in Brussels.??
+
+
+
+
+
+

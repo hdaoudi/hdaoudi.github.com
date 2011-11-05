@@ -1,0 +1,19 @@
+---
+layout: post
+title: Conversation with Quentin Dubois - Founder of MetaForEvents
+---
+
+h1. {{ page.title }}
+
+p(meta). 2 June 2011 - Brussels
+
+??Quentin Dubois is the founder of MetaForEvents –– a company that provides a turnkey solution for advertising and sponsorship on events. Although I didn't record the conversation, I remembered some interesting points in our conversation.??
+
+The traditional approach to the event market is dual in nature. In a first instance you contact the event organizer and then in a second instance you reach out to the exhibitors. The aim is to create financial incentives to the event organizers to provide access to the event and the exhibitors or sponsors. MetaForEvents on the other hand adopts the opposite approach. Contacting the exhibitors and sponsors comes first. Only after this relation is set up do they engage with the event organizer. If you think about it, this is a very interesting move.
+
+The merits of establishing the relationship with the exhibitor and sponsors first are significant. This position in which the relation is already established gives you power over the event organizer. If you are responsible for managing the value to the sponsor on the event, you have more bargaining power with the event organizer if he or she wishes to receive funds from the sponsor. The event organizer's main concern is a successful event, therefore the event organizer is also more inclined to agree to an integrated event solution, which is one of the key values of MetaForEvents.
+
+Although the level of significance of reaching out to sponsors first depends on the characteristics of the event, the advantages certainly outweigh the disadvantages. The distinction between different types of events is relevant because of a difference in the level of participation of exhibitors and sponsors. Trade shows typically have both active participation of exhibitors and sponsors, while festivals and congresses tend to have only sponsors.
+
+It is important to make a distinct approach between the exhibitors and sponsors and to generate a sensible strategy on how to approach them. Exhibitors are involved in the event, while a sponsor subsidizes the event or the networking component on the event (such in the case of Getyoo) and is inclined to avoid active participation in the events.
+
